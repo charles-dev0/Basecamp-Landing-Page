@@ -78,7 +78,7 @@
 
 
 <div id="hero-top" class="w-screen">
-    <div id="hero-text-main" class=" text-slate-300 self-center w-[440] text-center text-9xl pt-60 pb-15 font-[Lexend] mask font-thin"> <!-- text-center/ mask-radial-from-stone-400 -->
+    <div id="hero-text-main" class=" text-slate-300 self-center text-center text-9xl pt-60 pb-15 font-[Lexend] mask font-thin"> <!-- text-center/ mask-radial-from-stone-400 -->
         One place for <br>
         your <span class={hcf}>{htf}</span>
     </div>
