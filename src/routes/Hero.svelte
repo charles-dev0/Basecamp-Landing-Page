@@ -77,13 +77,13 @@
 
 
 <div id="hero-top" class="w-screen">
-    <div id="hero-text-main" class=" text-slate-300 self-center w-[440] text-center text-9xl pt-60 pb-10 font-[Lexend] mask font-thin"> <!-- text-center/ mask-radial-from-stone-400 -->
+    <div id="hero-text-main" class=" text-slate-300 self-center w-[440] text-center text-9xl pt-60 pb-15 font-[Lexend] mask font-thin"> <!-- text-center/ mask-radial-from-stone-400 -->
         One place for <br>
         your <span class={hcf}>{htf}</span>
     </div>
     <div id="main-btns" class="w-screen flex justify-center-safe pb-25">
-        <button onclick={() => {hcf = "text-blue-300"}} class=" mr-4 cursor-pointer text-slate-200 h-13 w-fit px-3.5  text-[24px] border-3 rounded-xl border-gray-500/30 duration-300">Learn more</button>
-        <button onclick={() => {htf = "test"}} class=" ml-4 cursor-pointer duration-500 bg-gray-500/30 text-slate-200 h-13 w-29 rounded-xl border-slate-200 text-[25px] ">Sign up</button>
+        <button onclick={() => {hcf = "text-blue-300"}} class=" mr-4 cursor-pointer bg-gray-500/30 text-slate-200 h-14 w-fit px-4  text-[24px] border-2 rounded-4xl border-gray-500/30 duration-300">Learn more</button>
+        <button onclick={() => {htf = "test"}} class=" ml-4 cursor-pointer duration-150 bg-gray-500/30 text-slate-200 h-14 w-fit px-4 rounded-4xl border-1 border-slate-200 hover:border-slate-400 hover:bg-gray-500/25 text-[25px] ">Join the Waitlist</button>
 
     </div> 
 </div>
