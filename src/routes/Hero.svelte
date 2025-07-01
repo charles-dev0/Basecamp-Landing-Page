@@ -83,8 +83,8 @@
         your <span class={hcf}>{htf}</span>
     </div>
     <div id="main-btns" class="w-screen flex justify-center-safe pb-25">
-        <button onclick={() => {hcf = "text-blue-300"}} class=" mr-4 cursor-pointer bg-gray-500/30 text-slate-200 h-14 w-fit px-4  text-[24px] border-2 rounded-4xl border-gray-500/30 duration-300">Learn more</button>
-        <button onclick={() => {htf = "test"}} class=" ml-4 cursor-pointer duration-150 bg-gray-500/30 text-slate-200 h-14 w-fit px-4 rounded-4xl border-1 border-slate-200 hover:border-slate-400 hover:bg-gray-500/25 text-[25px] ">Join the Waitlist</button>
+        <button onclick={() => {hcf = "text-blue-300"}} class=" mr-3 cursor-pointer text-slate-200 h-14 w-fit px-4  text-[24px] border-2 rounded-xl border-slate-500/35 bg-slate-400/5 duration-300">Learn more</button>
+        <button onclick={() => {htf = "test"}} class=" ml-3 cursor-pointer duration-150 bg-slate-500/30 text-slate-200 h-14 w-fit px-4 rounded-xl border-none border-slate-500 hover:border-slate-600 hover:bg-slate-500/25 text-[25px] ">Sign up</button>
 
     </div> 
 </div>
